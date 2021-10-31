@@ -1,3 +1,3 @@
 # VKG-Prime-Blog
 ## Prime Blog is bacially a part of the iniative of <b>Prime Time community of well awared students of CSE of NIT Patna .This main goal of this community is to provideplatform to the students where they can put their thoughts independently on various topics ranging from Polictics to Spirituality to Technology... and many more via blogs and GD(Group Discussion) which is organisedregularly on every saturday with average duration of 1- 1.5 hrs . With this GD students are not only able to put theirpoints but alsopolishing their communication skills to top notch level and can beat professionals easily in GD.
-## Live Demo: 
+## Live Demo: https://vikaskrgond.github.io/VKG-Prime-Blog/
