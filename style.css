@@ -34,71 +34,70 @@ body {
   font-size: 2.6rem;
 }
 
-.head1{
-    font-size: 2.3rem;
-    font-weight: bold;
-    text-align: center;
-} 
+.head1 {
+  font-size: 2.3rem;
+  font-weight: bold;
+  text-align: center;
+}
 
 .footer {
-    font-size: 1.1rem;
-    color: #888;
-    text-align: center;
-    margin: 0;
-  }
-#aboutus{
-  margin:auto;
+  font-size: 1.1rem;
+  color: #888;
+  text-align: center;
+  margin: 0;
+}
+#aboutus {
+  margin: auto;
   margin-left: 20px;
   margin-right: 20px;
   padding: 30px;
   box-shadow: 10px 6px 6px;
-
 }
-  .about-text{
-    text-align: center;
-    margin: auto;
-    margin-left: 30px;
-    margin-right: 30px;
-    font-size: 20px;
-  }
+.about-text {
+  text-align: center;
+  margin: auto;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 20px;
+}
 
-  .contactus{
-      text-align: center;
-      margin: auto;
-      margin-top: 30px;
-      margin-bottom: 20px;
-      padding: 20px;
-      width: 1200px;
-      box-shadow: 10px 10px 10px 10px;
-      border-radius: 8px;
-  }
+.contactus {
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 20px;
+  width: 1200px;
+  box-shadow: 10px 10px 10px 10px;
+  border-radius: 8px;
+}
 
-.contactus input{
-    width: 690px;
-    height:40px;
-    font-size: 20px;
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 10px;
+.contactus input {
+  width: 690px;
+  height: 40px;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .contactus label {
   font-size: 25px;
 }
-.contactus textarea{
-    font-size: 25px;
+.contactus textarea {
+  font-size: 25px;
 }
 
-.blog-post{
+.blog-post {
   width: 350px;
   font-size: 30px;
-  box-shadow: 3px 4px 4px 2px ;
+  box-shadow: 3px 4px 4px 2px;
   border-radius: 6px;
 }
-.blog-post:hover{
+.blog-post:hover {
   color: white;
-  background-color:black
+  background-color: black;
 }
-footer{
+footer {
   padding: 20px;
   display: flex;
   background-color: black;
@@ -112,18 +111,55 @@ footer ul {
   margin-left: 30px;
   margin-right: 30px;
 }
-footer ul li a{
+footer ul li a {
   text-decoration: none;
 }
-.logo1{
-  width:120px;
-  height:80px;
+.logo1 {
+  width: 120px;
+  height: 80px;
   margin-right: 10px;
 }
 
-/* @media only screen and (max-width: 700px) {
-    .data{
-        position: absolute;
-        
-        }
-  } */
+@media only screen and (max-width: 700px) {
+  body{
+    width:480px;
+  }
+  .data {
+    display: block;
+    /* grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr; */
+  }
+  .img-t img {
+    width: 340px;
+  height: 300px;
+  align-self: center;
+  }
+  .contactus {
+    width: 410px;
+  }
+  .contactus input {
+    width: 380px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .contactus textarea {
+    width: 380px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .logo1 {
+    width: 40px;
+    height: 20px;
+    margin-right: 6px;
+  }
+  .navbar{
+    width: 480px;
+  }
+}
+
+
+
