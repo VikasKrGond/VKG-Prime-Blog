@@ -159,6 +159,11 @@ footer ul li a {
   .navbar{
     width: 480px;
   }
+  footer {
+    width: 460px;
+    padding: 20px;
+    display: block;
+  }
 }
 
 
