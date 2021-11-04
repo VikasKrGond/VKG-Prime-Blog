@@ -1,5 +1,16 @@
 const gdData = [
   {
+    topic: "Diwali....",
+    category: "Personal",
+    gdDate: "November 5 , 2021",
+    discussion: ["Meaning of Diwali <br>","<li>My Pre Diwali</li>","<br><li>My NewDiwali</li>"],
+    description : "Diwali the festival of light .but children just know the diwali as the festival of fire cracker but I was always amazed to know that fire  cracker were invented just of 1000 years but the significance of diwali is beyond that i.e. around 5000 years then how Firecrackers are included in that ....(don't worry I am nt gonna give any <b>Gyan</b>)...Diwali is actually festival of joy when someone whos is most loved one is returning after long time then the feeling of joy is the essence of Diwali . I can not say how one should celebrate diwali but let me tell my personal experience on Diwali.....In my childhood(I am still find myself as Kid till now) I was a big firecracker freak I used to buy Kilos of firecraker in full big jute bag(bori in UP) and used to burst it from Dhantesras to all the way till chath on daily basis and for me it is like a cool dude thing but I do not know how it happened in my class 9th diwali in 2016 suddenly I dropped the idea of buying firecracker this time it was shocking for myparents for my firends to witness such drastic shift in my behaviour...and rather that appreciating my decision everyone Including my parents thought I am unsatisfied with the amount they are giving me to buy firecracker(It was already around 1200) but for this time they offer my 2300 and said beta dont take  any burden  enjoy your life at its full...I replied dad I didn't find myself elegible to do this Burning Laxmi on the Laxmi day moreover it is threatning to mother nature and specially those innocent animals who have equal right on earth like us...So this thing makes me guilty and after realising this I don't wanna do this sin again and waise bhi Firecrackers aren't there at the time of Lord Shri Ram so these are not part of ritual...and trust me from that diwali onward I've never burst firecracker on Diwali insted I used to plant trees of number eaual to my age...I never say only not burning fire cracker can evaccuate all air pollutant or don't suggest anynoe do that but just think for trees and innocent animals... <b>Happy Diwali !!!</b>",
+    conclusion: "khatam tata",
+    photo: "PostPhotos/diwali.jpg",
+    author:"Vikas Kumar Gond",
+    audioSum:"Audios/"
+  },
+  {
     topic: "Role of Entertainment in Life ",
     category: "Lifestyle",
     gdDate: "November 3 , 2021",
